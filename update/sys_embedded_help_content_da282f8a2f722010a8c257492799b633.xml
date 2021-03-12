@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <content><![CDATA[<h2 class="title topictitle2">NeedIt List -Using lists as a Admin</h2>
+<p>Here is more info on <a title="Embedded lists" href="https://docs.servicenow.com/bundle/paris-platform-user-interface/page/use/using-forms/concept/c_EmbeddedLists.html" target="_blank" rel="noopener">Embedded lists</a></p>
+<div class="body conbody">
+<h1 class="shortdesc title topictitle1">Related lists appear on forms and show records in tables that have relationships to the current record.</h1>
+<p class="p">Users can view and modify information in related lists like any other list. Administrators can configure related lists to appear on forms and in hierarchical lists by <a class="xref" href="https://docs.servicenow.com/bundle/paris-platform-administration/page/administer/form-administration/concept/configure-form-layout.html#t_AddARelate" target="_blank" rel="noopener">configuring a form</a>. Related lists do not have a size limit.</p>
+<p class="p">By default, all related lists display in List v2, even when List v3 is activated. An administrator can <a class="xref" title="List v3 is disabled for related lists by default. You can enable List v3 for related lists by editing a property." href="https://docs.servicenow.com/bundle/paris-platform-user-interface/page/administer/list-v3-administration/task/t_EnableListV3ForRelatedLists.html#t_EnableListV3ForRelatedLists">enable List v3 for related lists</a>. The same List v3 <a class="xref" title="Certain conditions prevent lists from displaying in List v3." href="https://docs.servicenow.com/bundle/paris-platform-user-interface/page/administer/list-v3-administration/reference/r_ListV3Compatibility.html#r_ListV3Compatibility">compatibility rules</a> apply to related lists as to standard lists.</p>
+</div>
+<ul class="steps-unordered"><li><span class="related-dd-inline"><a class="link-primary" href="https://docs.servicenow.com/bundle/paris-platform-user-interface/page/use/using-forms/task/t_SelectRelatedRecords.html">Select or create records in a related list</a></span></li></ul>
+<p>When a form contains a related list, such as the <span class="ph uicontrol">Incidents</span> related list in the problem form, you can select existing records or add new ones in the related list.</p>
+<ul class="steps-unordered"><li><span class="related-dd-inline"><a class="link-primary" href="https://docs.servicenow.com/bundle/paris-platform-user-interface/page/use/using-forms/task/t_ConfigureWhenARelatedListLoads.html">Configure when a related list loads</a></span></li></ul>
+<p>If there are many related lists on a form or many records in the related lists, the form may load slowly. In UI16 and UI15, you can improve form response times by configuring related lists to load manually, on demand, or automatically, after the rest of the form loads.</p>
+<ul class="steps-unordered"><li><span class="related-dd-inline"><a class="link-primary" href="https://docs.servicenow.com/bundle/paris-platform-user-interface/page/use/using-forms/task/t_CreateADefaultFilter.html">Create a default filter for a related list</a></span></li></ul>
+<p>You can create a default filter that is applied to a related list when a form loads.</p>
+<ul class="steps-unordered"><li><span class="related-dd-inline"><a class="link-primary" href="https://docs.servicenow.com/bundle/paris-platform-user-interface/page/use/using-forms/task/t_ConfigureTheEditOption.html">Configure the edit option</a></span></li></ul>
+<p>You can configure the edit option that allows users to add records to related lists in forms.</p>
+<ul class="steps-unordered"><li><span class="related-dd-inline"><a class="link-primary" href="https://docs.servicenow.com/bundle/paris-platform-user-interface/page/administer/form-administration/task/t_CreateDefinedRelatedLists.html">Create defined related lists</a></span></li></ul>
+<p>You can add default related lists to the form for all users to see when viewing records.</p>
+<ul class="steps-unordered"><li><span class="related-dd-inline"><a class="link-primary" href="https://docs.servicenow.com/bundle/paris-platform-user-interface/page/administer/form-administration/task/t_AddingFieldsToARelatedList.html">Add fields to selections in a related list</a></span></li></ul>
+<p>When you click <span class="ph uicontrol">Edit</span> in a related list and select an item, information about the item appears below the list. You can expand the fields that appear for the item to provide more information.</p>
+<ul class="steps-unordered"><li><span class="related-dd-inline"><a class="link-primary" href="https://docs.servicenow.com/bundle/paris-platform-user-interface/page/administer/form-administration/task/t_CreateDefaultRelatedRecSecFilter.html">Create a default related record selection filter for a related list</a></span></li></ul>
+<p>You can set a default filter to restrict which related records users can select. Default filters are simple to set up but lack a dynamic filtering element, which prevents the end user from changing the default filter.</p>
+<p> </p>]]></content>
+        <last_sync/>
+        <modifier>normal</modifier>
+        <name>NeedIt LIst - Admin</name>
+        <page>58872_needit_needit_list</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>10</role_order>
+        <snc_created>false</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-11 18:16:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>da282f8a2f722010a8c257492799b633</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>NeedIt LIst - Admin</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_embedded_help_content_da282f8a2f722010a8c257492799b633</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-11 19:03:11</sys_updated_on>
+        <version>all</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=da282f8a2f722010a8c257492799b633"/>
+</record_update>
